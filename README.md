@@ -11,7 +11,7 @@ Les photos devront remplir des critères tel qu'une certaines taille ainsi qu'un
 
 Utilisation de Apache ainsi que de RaspAp.
 
-Voici le code implémenté dans le fichier index.php de RaspAp :
+Voici le code implémenté dans le fichier index.php en supplément du code de base de RaspAp :
 
 ```
 <!-- Code vérification sur la barre de navigation -->
